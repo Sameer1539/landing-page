@@ -105,3 +105,27 @@ h2 {
     flex-wrap: wrap;
     text-align: center;
 }
+
+.third-section {
+    background-color: #E5E7EB;
+    padding: 100px 20%;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote p {
+    font-size: 20px;
+    align-self: flex-end;
+    font-weight: bolder;
+}
+
+h6 {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 100;
+}
