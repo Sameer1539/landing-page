@@ -86,7 +86,7 @@ h2 {
 .row-of-blue-boxes {
     display: flex;
     justify-content: center;
-    gap: 70px;
+    gap: 8%;
 }
 
 .box-blue {
@@ -97,7 +97,7 @@ h2 {
 }
 
 .second-section {
-    padding-bottom: 100px;
+    padding-bottom: 75px;
 }
 
 .second-section p {
@@ -121,6 +121,7 @@ h2 {
     font-size: 20px;
     align-self: flex-end;
     font-weight: bolder;
+    margin-top: 10px;
 }
 
 h6 {
